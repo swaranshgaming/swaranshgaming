@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @swaranshgaming
+- 👋 Hi, I’m @SGC UB
 - 👀 I’m interested in creating bots ...
 - 🌱 I’m learned python,node,c,c++
--l 💞️ I’m looking to collaborate SG
+-l 💞️ I’m looking to collaborate SGC
 
 <!---
 swaranshgaming/SGC UB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
